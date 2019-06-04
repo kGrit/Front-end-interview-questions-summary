@@ -1,7 +1,7 @@
-# JavaScript 面试题
-## JS基础
-- javascript 的 typeof 返回哪些数据类型  
-  返回类型有**string类型、number类型、布尔类型、undefined类型、object类型、function类型、Symbol类型**七种类型。   
+### JavaScript 面试题
+#### JS基础
+1.jvascript 的 typeof 返回哪些数据类型<br/>
+- 返回类型有**string类型、number类型、布尔类型、undefined类型、object类型、function类型、Symbol类型**七种类型。   
     object类型： `typeof null;`  
     function类型： `typeof isNaN;`   `typeof(Array);`  `typeof(Date);`   
     symbol类型（ES6提出的新的类型）： `typeof Symbol();` <br/>  
