@@ -1,6 +1,6 @@
 ### JavaScript 面试题
 #### JS基础
-1.jvascript 的 typeof 返回哪些数据类型<br/>
+<font size="1">1.jvascript 的 typeof 返回哪些数据类型<br/>
 - 返回类型有**string类型、number类型、布尔类型、undefined类型、object类型、function类型、Symbol类型**七种类型。   
     object类型： `typeof null;`  
     function类型： `typeof isNaN;`   `typeof(Array);`  `typeof(Date);`   
@@ -15,7 +15,7 @@
   unshift()：数组头部添加，返回新长度。  
   shift():数组头部删除，返回头部被删元素。   
   push():尾部添加，返回长度。  
-  pop():尾部删除，返回元素。  
+  pop():尾部删除，返回元素。  <font>
   
   
   
