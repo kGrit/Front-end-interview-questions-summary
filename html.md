@@ -6,3 +6,6 @@
     - Safari : webkit内核
     - opera : 以前是presto内核，现在改为Google Chrome的Blink内核
     - chrome : Blink(基于webkit)
+
+2. Doctype是干嘛的？
+    - DOCTYPE位于文档的开头部分，为了向浏览器说明此文档是用html还是xml标准规范，使浏览器可以用指定的文档类型进行解析。
